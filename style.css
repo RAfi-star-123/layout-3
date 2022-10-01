@@ -1,0 +1,89 @@
+*{
+  
+   margin-block: 1mm;
+  
+}
+header{
+    height: 100px;
+    font-size: 30px;
+    background-color: rgb(243, 204, 31);
+    text-align: center;
+}
+.banner{
+    height: 300px;
+    background-color: rgb(130, 255, 234);
+    font-size: 25px;
+    text-align: center;
+}
+.box{
+    overflow: hidden;
+}
+.lbox{
+    width: 50%;
+    height: 250px;
+    background-color: chartreuse;
+    float: left;
+}
+.rbox{
+    width: 50%;
+    height: 250px;
+    background-color: crimson;
+    float: right;
+}
+.blc{
+    overflow: hidden;
+}
+.blc1{
+    width: 33.3%;
+    height: 200px;
+    background-color: cornflowerblue;
+    float: left;
+}
+.blc2{
+    width: 33.3%;
+    height: 200px;
+    background-color: rgb(16, 255, 108);
+    float: left;
+}
+.blc3{
+    width: 33.3%;
+    height: 200px;
+    background-color: darkorchid;
+    float: left; 
+}
+.end{
+    overflow: hidden;
+}
+.ads{
+    width: 70%;
+    height: 60px;
+    background-color: rgb(245, 248, 59);
+    float: left; 
+}
+.img{
+    width: 30%;
+    height: 60px;
+    background-color: rgb(74, 174, 255);
+    float: right; 
+}
+footer{}
+.cpr8{
+    width: 40%;
+    height: 100px;
+    background-color: rgb(14, 172, 0);
+    text-align: center;
+    float: left; 
+}
+.contact{
+    width: 40%;
+    height: 100px;
+    background-color: rgb(197, 138, 48);
+    float: left; 
+}
+.adrs{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(243, 215, 215);
+    float: left; 
+
+}
